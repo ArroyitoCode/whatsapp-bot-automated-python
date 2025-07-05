@@ -39,6 +39,9 @@ python bot_whatsapp_multiples.py
 
 Desarrollado por ArroyitoCode – Desarrollador Freelance en Automatización 💼
 
-🎯 Looking for a working version of this bot?
-I offer it as a ready-to-use tool on Fiverr:
-👉 https://es.fiverr.com/s/42pZxvd
+### 🚀 Live Version Available
+
+You can get this bot fully working, with instructions, through my Fiverr store:  
+🔗 [Click here to access it](https://es.fiverr.com/s/42pZxvd)
+
+Developed by ArroyitoCode 👨‍💻
